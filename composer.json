@@ -1,0 +1,15 @@
+{
+  "name": "vincenthall/app",
+  "authors": [
+    {
+      "name": "Vincent Hall",
+      "email": "jackvhall@outlook.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Core\\": "core/"
+    }
+  }
+}
